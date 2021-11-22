@@ -1,4 +1,4 @@
-# RoleBasedAuthorization
+# StudentResultManagementSystemApplication with concept of RoleBasedAuthorization
 
 Contains Spring boot projects that explains about Role Based Authorization in a Rest application using Spring Security 5.
 
